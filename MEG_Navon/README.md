@@ -1,1 +1,3 @@
-# H1 Analysis Codes for Navon Manuscript
+# MEG Navon
+
+Analysis Codes for the Navon Manuscript.
